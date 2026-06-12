@@ -1,8 +1,38 @@
-QuickBite Figma Import
+# QuickBite - Food Delivery App
 
-1. Open Figma.
-2. Drag all 10 SVG files onto the canvas.
-3. Arrange horizontally.
-4. Connect prototype:
-Splash→Login→Home→Restaurant→Food→Cart→Checkout→Confirmation→Tracking→Profile
-5. Export/share your Figma file.
+## Project Description
+
+QuickBite is a low-fidelity wireframe prototype of a food delivery mobile application designed in Figma. The project focuses on providing a simple and user-friendly experience for browsing restaurants, ordering food, and tracking deliveries.
+
+## Features
+
+- Splash Screen
+- Login Screen
+- Home Screen
+- Restaurant Details
+- Food Item Details
+- Cart
+- Checkout
+- Order Confirmation
+- Order Tracking
+- Profile
+
+## Tools Used
+
+- Figma
+
+## User Flow
+
+Splash → Login → Home → Restaurant → Food Item → Cart → Checkout → Order Confirmation → Order Tracking → Profile
+
+## Figma Prototype
+
+Paste your Figma prototype link here.
+
+## Repository
+
+This repository contains the wireframe design and related project files created as part of the CodeAlpha UI/UX Design Internship.
+
+## Author
+
+Kushal Kolagani
