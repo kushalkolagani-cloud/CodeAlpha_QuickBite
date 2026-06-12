@@ -27,7 +27,7 @@ Splash → Login → Home → Restaurant → Food Item → Cart → Checkout →
 
 ## Figma Prototype
 
-Paste your Figma prototype link here.
+https://www.figma.com/design/r9eHzN5Bt0RVb44xxZ30SQ/Untitled?node-id=1-907&t=hgbUcENnS4cuyp2M-1
 
 ## Repository
 
