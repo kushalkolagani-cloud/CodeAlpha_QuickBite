@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect width="390" height="844" fill="white" stroke="#999"/>
+<text x="24" y="40" font-size="24" font-family="Arial" font-weight="700">Checkout</text>
+<rect x="24" y="70" width="342" height="48" rx="8" fill="none" stroke="#777"/>
+<text x="36" y="100" font-size="14" font-family="Arial">Delivery Address</text>
+<rect x="24" y="138" width="342" height="48" rx="8" fill="none" stroke="#777"/>
+<text x="36" y="168" font-size="14" font-family="Arial">Payment Method</text>
+<rect x="24" y="206" width="342" height="48" rx="8" fill="none" stroke="#777"/>
+<text x="36" y="236" font-size="14" font-family="Arial">PLACE ORDER</text>
+</svg>
